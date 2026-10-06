@@ -1,0 +1,6 @@
+streamlit>=1.40
+segyio>=1.9
+h5py>=3.10
+numpy>=1.26
+pandas>=2.2
+plotly>=5.24
